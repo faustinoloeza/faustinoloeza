@@ -2,6 +2,7 @@
 
 ![Andreagriffiths11's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinoloeza&count_private=true&show_icons=true&theme=radical)
 
+
 ```mermaid
 sequenceDiagram
     participant Cron
@@ -27,7 +28,14 @@ sequenceDiagram
     end
     System -->> Cron: Finaliza la ejecución del programa
 
+```
 
+```
+flowchart TD
+    B["fab:fa-twitter for peace"]
+    B-->C[fa:fa-ban forbidden]
+    B-->D(fa:fa-spinner)
+    B-->E(A fa:fa-camera-retro perhaps?)
 
 ```
 <!--

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Andreagriffiths11's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinoloeza&count_private=true&show_icons=true&theme=radical)
+![Andreagriffiths11's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinoloeza&count_private=true&show_icons=true&theme=tokyonight)
 
 
 ```mermaid

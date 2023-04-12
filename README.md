@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![Andreagriffiths11's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinoloeza&count_private=true&show_icons=true&theme=tokyonight)
+| Español        | English     | 
+|--------------|-----------|
+| ![Faustino Loeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinoloeza&count_private=true&show_icons=true&bg_color=30,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff&locale=es) | ![Faustino Loeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinoloeza&count_private=true&show_icons=true&bg_color=30,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)     |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinoloeza&theme=tokyonight&layout=compact&bg_color=30,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/faustinoloeza/github-readme-stats&locale=es)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinoloeza&theme=tokyonight&layout=compact&bg_color=30,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/faustinoloeza/github-readme-stats)|
+
+
 
 
 ```mermaid

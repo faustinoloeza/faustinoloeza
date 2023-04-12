@@ -30,7 +30,7 @@ sequenceDiagram
 
 ```
 
-```
+```mermaid
 flowchart TD
     B["fab:fa-twitter for peace"]
     B-->C[fa:fa-ban forbidden]

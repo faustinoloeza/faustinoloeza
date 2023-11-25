@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faustinoloeza&theme=ocean-gradient)](https://git.io/streak-stats)
 ![Faustino Loeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinoloeza&count_private=true&show_icons=true&bg_color=30,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinoloeza&theme=tokyonight&layout=compact&bg_color=30,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/faustinoloeza/github-readme-stats)
 
@@ -22,8 +23,9 @@ I am a Mexican currently residing in Cancun, Mexico. Here is a brief overview of
 
 ### 🌱 Ongoing Learning:
 
-Kotlin Multiplatform
-📫 Contact Information:
+- Kotlin Multiplatform
+
+### 📫 Contact Information:
 
  Email: faustinoloezaperez@gmail.com
 
